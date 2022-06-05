@@ -10,36 +10,27 @@
 ----------------------------------------------------------------------
 
 
-# Quick Login
+<h1 align="center"> Quick Login</a></h1>
 
 **This App Used for Instance Login And use.**
 
-Splash Screen         | 
+Create account         | 
 :-------------------------:|
-![s6](https://user-images.githubusercontent.com/77672442/172053016-c9709052-5501-4db8-9f81-4b5caecbce67.jpg)
+![s1](https://user-images.githubusercontent.com/77672442/172053788-41e3a8d3-eefd-4824-996e-ffed6fea5b00.jpg)
 
 
-Log In Screen        | 
+Sign In account        | 
 :-------------------------:|
-![s5](https://user-images.githubusercontent.com/77672442/172053216-cd009e13-4493-4a3f-a6d4-7dfc2206d7aa.jpg)
-
-
-Welcome Screen          | 
-:-------------------------:|
-![s4](https://user-images.githubusercontent.com/77672442/172053186-a0a697c7-d5e0-4561-8a6c-19ac685a3476.jpg)
-
-
-Home Screen          | 
-:-------------------------:|
-![s3](https://user-images.githubusercontent.com/77672442/172053296-be228fba-8e3b-43a5-8fc9-faeb8d378399.jpg)
+![s2](https://user-images.githubusercontent.com/77672442/172053787-49621334-0005-462b-afd8-ee45fc3a9dd1.jpg)
 
 
 
-Details Screen          | 
-:-------------------------:|
-![s1](https://user-images.githubusercontent.com/77672442/172053300-ae0c45e3-e085-4494-bcb7-fce15f77f61d.jpg)
 
-        
-Final PDF Screen          | 
-:-------------------------:|
-![s2](https://user-images.githubusercontent.com/77672442/172053307-8b93da7b-4fe1-44ba-8a76-c39c5c1cf83e.jpg)
+
+
+
+
+
+----------------------------------------------------------------------
+
+
